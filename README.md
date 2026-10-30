@@ -5,14 +5,14 @@ A Python script that visualises a public dataset on eating habits, physical cond
 
 ## Dataset
 
-1. File:ObesityDataSet_raw_and_data_sinthetic.csv
-2. Size:2,111 rows and 17 columns, with no missing values
-3. Created by me:a BMI column, calculated in the script as weight divided by height squared. It is not in the original CSV, and the CSV file itself is not changed.
+1. File: ObesityDataSet_raw_and_data_sinthetic.csv
+2. Size: 2,111 rows and 17 columns, with no missing values
+3. Created by me: a BMI column, calculated in the script as weight divided by height squared. It is not in the original CSV, and the CSV file itself is not changed.
 
 
 ## Plots
 
-1.  Line plot: Average weight at each age 
+1.  Line plot: Average weight at each age (matplotib)
 2.  Scatter plot: Height against weight, coloured by gender 
 3.  Histogram: Age distribution of participants 
 4.  Box plot: Weight by main mode of transport 
@@ -49,6 +49,6 @@ Each plot is made by its own function, and the functions are called in order at 
 Every figure uses the same colour and size, and is saved as an image before it is shown.
 
 ## Project video links
-
+Demo video: [Watch presentation](https://drive.google.com/file/d/1pZFihPIEi3TOnDyHeCW8j6SimTOkGn_Y/view?usp=drive_link)
 
 
